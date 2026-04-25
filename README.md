@@ -1,4 +1,4 @@
-# Claude Skills for Job Escape
+# Claude Skills
 
 22 ready-to-use Claude Code skills for AI freelancers. Clone, copy the skill you need to your `.claude/commands/` folder, and use it as a slash command.
 
@@ -51,7 +51,3 @@
 | [20 - Difficult Convo](./20-difficult-convo/) | Helps prepare for a hard conversation |
 | [21 - Meal Week](./21-meal-week/) | Creates a weekly meal plan with shopping list |
 | [22 - Decision Helper](./22-decision-helper/) | Helps make a difficult decision through structured analysis |
-
----
-
-Built for [Job Escape](https://jobescape.me) students.
